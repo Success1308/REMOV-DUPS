@@ -43,6 +43,9 @@ With its modern interface and efficient processing, this tool is designed to mak
 
 When I couldn’t find a free and reliable solution for removing duplicate images, I decided to build my own. I learned about image processing, perceptual hashing, and UI design along the way. This app is the result of countless hours of coding and testing, driven by the goal of solving my own problem and helping others like me.
 
+![image](https://github.com/user-attachments/assets/35569858-b777-4d3e-b540-40db61f68076)
+
+
 ---
 
 ## Features
