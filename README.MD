@@ -93,20 +93,6 @@ The application uses a combination of algorithms and techniques to identify dupl
 
 ---
 
-## Tags
-
-- #imageDuplicateRemover
-- #videoDuplicateRemover
-- #fileDuplicateCleaner
-- #PythonDesktopApp
-- #freeDuplicateFileRemover
-- #WindowsDuplicateCleaner
-- #perceptualHashingTool
-- #imageAndVideoCleanup
-- #PythonProjectShowcase
-
----
-
 ## Try It Yourself
 
 If you’re tired of paid tools or manual cleanup, give **REMOV DUPS** a try. I built it to solve my problem, and now it’s here to solve yours too. Let’s keep our devices clutter-free together!
