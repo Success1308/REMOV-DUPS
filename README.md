@@ -39,6 +39,39 @@ With its modern interface and efficient processing, this tool is designed to mak
 
 ---
 
+## How to Generate the Executable File
+
+1. **Create a Virtual Environment**
+   ```bash
+   python -m venv venv
+   .\venv\Scripts\Activate
+   ```
+
+2. **Install Required Packages**
+   ```bash
+   pip install auto-py-to-exe
+   pip install customtkinter pillow pillow-heif opencv-python-headless imagehash
+   ```
+
+3. **Launch `auto-py-to-exe`**
+   ```bash
+   auto-py-to-exe
+   ```
+
+   - In `auto-py-to-exe`, select the "One File" option and set it as a Windows-based file.
+   - Add the path to the icon file (`app_icon.ico`).
+   - Include the logo file (`app_logo1.png`) under "Additional Files."
+   - Click "Convert .py to .exe."
+
+   The executable file will be generated in the `OUTPUT` folder.
+
+4. **Deactivate the Virtual Environment**
+   ```bash
+   deactivate
+   ```
+
+---
+
 ## Why I Made This App
 
 When I couldn’t find a free and reliable solution for removing duplicate images, I decided to build my own. I learned about image processing, perceptual hashing, and UI design along the way. This app is the result of countless hours of coding and testing, driven by the goal of solving my own problem and helping others like me.
