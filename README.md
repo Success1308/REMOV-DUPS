@@ -99,6 +99,38 @@ The application uses a combination of algorithms and techniques to identify dupl
 
 ---
 
+## Future Enhancements
+
+Here are some potential improvements and features planned for future versions:
+
+1. **Cross-Platform Support**:
+   - Extend support to macOS and Linux systems.
+
+2. **Advanced Duplicate Detection**:
+   - Incorporate metadata comparison and file content hashing for more precise duplicate detection.
+
+3. **Customizable Scanning Options**:
+   - Allow users to configure sensitivity for detecting visually similar files.
+
+4. **Cloud Integration**:
+   - Add support for scanning files directly from cloud storage platforms like Google Drive and Dropbox.
+
+5. **Detailed Reports**:
+   - Generate and save reports of scanned duplicates for user review.
+
+6. **Localization**:
+   - Provide support for multiple languages to reach a wider audience.
+
+---
+
 ## Try It Yourself
 
 If you’re tired of paid tools or manual cleanup, give **REMOV DUPS** a try. I built it to solve my problem, and now it’s here to solve yours too. Let’s keep our devices clutter-free together!
+
+---
+
+## License
+
+MIT License
+
+Copyright (c) 2025 Success Ambaliya
