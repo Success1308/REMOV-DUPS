@@ -1,7 +1,7 @@
 # REMOV DUPS
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2bc97d74-859b-4e43-8887-dd92ac1b7518" alt="Image" width="400" />
+  <img src="https://github.com/user-attachments/assets/2bc97d74-859b-4e43-8887-dd92ac1b7518" alt="Image" width="350" />
 </p>
 
 ## My Journey to Solving a Personal Problem
