@@ -1,5 +1,7 @@
 # REMOV DUPS
 
+![image](https://github.com/user-attachments/assets/2bc97d74-859b-4e43-8887-dd92ac1b7518)
+
 ## My Journey to Solving a Personal Problem
 
 A while back, I faced a frustrating problem: my devices were cluttered with duplicate images and videos. Every tool I found to clean up this mess either came with a hefty price tag or was riddled with limitations. I needed a solution that was effective and free. Since nothing fit the bill, I decided to take matters into my own hands and create a tool that solves the problem once and for all.
